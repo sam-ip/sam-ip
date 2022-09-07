@@ -1,5 +1,5 @@
 ## Hi, I'm Sam :)
-#### I'm a 4th year CS student interested in solving problems and learning. In my free time, I lift, read manga, and play video games.
+#### I'm a 4th year CS student interested in solving problems and learning. In my free time, I play video games, read manga and touch grass
 
 
 <!--
